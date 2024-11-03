@@ -21,3 +21,4 @@ kotlin {
 }
 
 apply<FileTemplatePlugin>()
+apply<ParserPlugin>()
