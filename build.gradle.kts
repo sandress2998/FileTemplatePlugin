@@ -19,3 +19,5 @@ tasks.test {
 kotlin {
     jvmToolchain(17)
 }
+
+apply<FileTemplatePlugin>()
